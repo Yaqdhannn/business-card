@@ -1,5 +1,6 @@
 import React from "react";
 
+// This is the interests section where it includes a small paragaph about my interests
 function Interests(){
     return(
         <div className="interests">

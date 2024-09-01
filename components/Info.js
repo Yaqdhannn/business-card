@@ -1,5 +1,6 @@
 import React from "react";
 
+// This is the top portion of the card that includes a picture, name, title, and social buttons
 function Info(){
     return(
         <div className="info">

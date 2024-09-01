@@ -1,5 +1,6 @@
 import React from "react";
 
+// This is the footer that includes the social buttons
 function Footer(){
     return(
         <div className="footer">

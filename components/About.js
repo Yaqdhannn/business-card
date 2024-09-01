@@ -1,5 +1,6 @@
 import React from "react";
 
+// This is the about section where it includes a small paragaph about myself
 function About(){
     return(
         <div className="about">
