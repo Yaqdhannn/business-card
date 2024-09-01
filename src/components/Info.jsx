@@ -1,6 +1,6 @@
-import yaqdhanImage from "../assets/yaqdhan.png";
-import emailIcon from "../assets/mail-icon.png";
-import linkedinIcon from "../assets/linkedin-blue-icon.png"
+import yaqdhanImage from "../assets/yaqdhan.webp";
+import emailIcon from "../assets/mail-icon.svg";
+import linkedinIcon from "../assets/linkedin-blue-icon.svg"
 
 // This is the top portion of the card that includes a picture, name, title, and social buttons
 function Info(){

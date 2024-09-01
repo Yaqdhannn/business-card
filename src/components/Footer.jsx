@@ -1,7 +1,7 @@
 // This is the footer that includes the social buttons
-import twitterIcon from '../assets/twitter-icon.png';
-import linkedinIcon from '../assets/linkedin-grey-icon.png';
-import githubIcon from '../assets/github-icon.png';
+import twitterIcon from '../assets/twitter-icon.svg';
+import linkedinIcon from '../assets/linkedin-grey-icon.svg';
+import githubIcon from '../assets/github-icon.svg';
 
 function Footer(){
     return(
